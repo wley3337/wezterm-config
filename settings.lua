@@ -7,6 +7,7 @@ function M.apply_to_config(config)
 	config.pane_focus_follows_mouse = true
 	config.scrollback_lines = 5000
 	config.tab_bar_at_bottom = true
+	-- config.use_fancy_tab_bar = false
 	config.window_padding = { left = 20, right = 20, top = 30, bottom = 20 }
 end
 
